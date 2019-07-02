@@ -1,4 +1,4 @@
-def mmonopoly 
+def monopoly 
   monopoly =  {
   :railroads=>
   {
